@@ -4,7 +4,7 @@ How to Access Netgear Router Login Page – Step-by-Step Guide
 
 .. image:: get-start-button.png
    :alt: Netgear Router Login page
-   :target:  
+   :target:  https://fm.ci?aHR0cHM6Ly9uZXRnZWFyLXJvdXRlci1sb2dpbi1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
    
 
 Easily access your Netgear router login page via `routerlogin.net` or `192.168.1.1`. Follow this step-by-step guide to log in, change your Wi-Fi settings, update firmware, and secure your home network through the Netgear admin page.
