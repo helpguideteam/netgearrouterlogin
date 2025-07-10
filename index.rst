@@ -4,7 +4,9 @@ Easily access your `netgear router login <https://www.routerlogin.net/>`_ page v
 
 .. image:: get-start-button.png
    :alt: Netgear Router Login page
-   :target: https://sites.google.com/view/wwwnetgearrouterloginip
+   :target: https://pre.im/?OFdrUKABqhgkstgSRFtpEowFbEtclCPX87hX3boPSDsimpwwfSnYfH3fkmMF4bYcYwQIE95go1idEZV7A9sdKW
+
+
 
 What Is the Netgear Router Login Page?
 ===================================================
